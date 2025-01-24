@@ -126,9 +126,9 @@
 <h2><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with Me</h2>
 
 <p align="center">
-<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=6A54BC"/></a>
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=6A54BC"/></a>
-<a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=twitter&logoColor=6A54BC"/></a>
+<a href="mailto:likithaburra2@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=6A54BC"/></a>
+<a href="https://linkedin.com/in/likitha-burra"><img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=6A54BC"/></a>
+<a href="https://twitter.com/Likitha9848"><img src="https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=twitter&logoColor=6A54BC"/></a>
 </p>
 
 <!-- SUPPORT -->
